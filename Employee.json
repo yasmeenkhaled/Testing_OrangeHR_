@@ -1,0 +1,16 @@
+[
+    {
+        "firstname":"Sandip",
+        "password":"sandip123",
+        "employeeId":"0431",
+        "lastname":"Thombare",
+        "username":"sandip123"
+    },
+    {
+        "firstname": "sandip",
+        "password": "sandip1999",
+        "employeeId": "03704",
+        "lastname": "Prime",
+        "username": "sandip1999"
+    }
+]
